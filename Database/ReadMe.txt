@@ -1,0 +1,1 @@
+Import Database to phpMyAdmin
